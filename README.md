@@ -15,7 +15,7 @@
 
 
 #### 📫 How can you reach me?
-Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](https://www.linkedin.com/in/vishalratho8788).
+Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](https://www.linkedin.com/in/vishalrathod8788).
 
 ## 👨🏻‍💻 Tech Stack
 <p align="center">
