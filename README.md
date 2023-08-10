@@ -28,10 +28,10 @@ Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](
 <img src="https://img.shields.io/badge/Java-38B2AC?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/PHP-663399?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/.net-F59812?style=for-the-badge&logo=.net&logoColor=white" alt=".net"/>
-<img src="https://img.shields.io/badge/ASP.net-191970?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.net"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
 <br/>
 <img src="https://img.shields.io/badge/Python-B7472A?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+<img src="https://img.shields.io/badge/ASP.net-191970?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.net"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F7DF1E" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
