@@ -44,7 +44,7 @@ Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](
 <!-- <p><a href="https://ko-fi.com/Vishal Rathod"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Vishal Rathod" /></a></p><br><br> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalrathod8788&show_icons=true&locale=en" alt="vishalrathod8788" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod8788&" alt="vishalrathod8788" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod8788&" alt="vishalrathod8788" /></p> -->
 
 ## 📩 Contact Me 👇
 
