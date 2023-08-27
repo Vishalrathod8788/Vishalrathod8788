@@ -33,8 +33,8 @@ Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](
 <img src="https://img.shields.io/badge/Python-B7472A?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 <img src="https://img.shields.io/badge/ASP.net-191970?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.net"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F7DF1E" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-593D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=F7DF1E" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/trello-1572B6?style=for-the-badge&logo=trello&logoColor=white" alt="trello"/>
 </p>
 
