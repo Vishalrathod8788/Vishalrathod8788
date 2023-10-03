@@ -7,7 +7,6 @@
 
 - ⚗️ Though I hold Bachelor's degree in Computer Application, I become a software developer.
 - 🌱 I’m actively looking for oppotunities in Java Software development.
-- 🔭 I’m currently working on **Pet House**
 - 🌱 I’m currently learning **Python**
 
 #### ⚡ One line that describes me best? 
