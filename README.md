@@ -7,7 +7,10 @@
 
 - ⚗️ Though I hold Bachelor's degree in Computer Application, I become a software developer.
 - 🌱 I’m actively looking for oppotunities in Java Software development.
-- 🌱 I’m currently learning **Python**
+- 📖 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💬 Ask me about PHP, C++, C#.NET, ASP.NET, JAVA, J2EE and Web development.
+- 😄 Pronouns: He, Fat & Happy 😄
+- 🥳 Fun fact: I love to Reading a Book, I love to Listen Song, I love to travel on my motorcycle.
 
 #### ⚡ One line that describes me best? 
 - 🌱 I'm a Java software developer passionate about creating efficient and scalable applications. 
