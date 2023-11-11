@@ -48,11 +48,11 @@ Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](
 <a href="https://github.com/vishalrathod8788#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalrathod8788&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="vishalrathod8788" /></a>
 </p>
 
-<!--<p>&nbsp;<a href="https://github.com/vishalrathod8788#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=vishalrathod8788&theme=nightowl#gh-dark-mode-only" alt="vishalrathod8788"/></a>
+<p>&nbsp;<a href="https://github.com/vishalrathod8788#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=vishalrathod8788&theme=nightowl#gh-dark-mode-only" alt="vishalrathod8788"/></a>
 <a href="https://github.com/vishalrathod8788#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=vishalrathod8788&theme=vue#gh-light-mode-only" alt="vishalrathod8788"/></a> </p>
-<br/>-->
+<br/>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod8788&" alt="vishalrathod8788" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod8788&" alt="vishalrathod8788" /></p>
 
 ## 📩 Contact Me 👇
 
@@ -60,7 +60,7 @@ Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:vishal11@duck.com">
+<a href="mailto:coder@vishal.sbs">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
