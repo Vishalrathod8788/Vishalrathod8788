@@ -9,7 +9,7 @@
 - 🌱 I’m actively looking for oppotunities in Java Software development.
 - 📖 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💬 Ask me about PHP, C++, C#.NET, ASP.NET, JAVA, J2EE and Web development.
-- 😄 Pronouns: He, Fat & Happy 😄
+- 😄 Pronouns: Happy 😄
 - 🥳 Fun fact: I love to Reading a Book, I love to Listen Song, I love to travel on my motorcycle.
 
 #### ⚡ One line that describes me best? 
