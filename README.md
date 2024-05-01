@@ -5,12 +5,12 @@
 ⚡ Little bit more about me:
 
 
-- ⚗️ Though I hold Bachelor's degree in Computer Application, I become a software developer.
-- 🌱 I’m actively looking for oppotunities in Java Software development.
-- 📖 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💬 Ask me about PHP, C++, C#.NET, ASP.NET, JAVA, J2EE and Web development.
+- ⚗️ Though I hold a Bachelor's degree in Computer Application, I become a software developer.
+- 🌱 I’m actively looking for opportunities in Java Software development.
+- 📖 I’m currently learning many things, and I believe that every day is a learning opportunity.
+- 💬 Ask me about C, C++, DSA, Advanced DSA, C#.NET, ASP.NET, JAVA, J2EE and Web development.
 - 😄 Pronouns: Happy 😄
-- 🥳 Fun fact: I love to Reading a Book, I love to Listen Song, I love to travel on my motorcycle.
+- 🥳 Fun fact: I love to Read a Book, I love to Listen to songs, and I love to travel on my motorcycle.
 
 #### ⚡ One line that describes me best? 
 - 🌱 I'm a Java software developer passionate about creating efficient and scalable applications. 
