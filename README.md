@@ -9,7 +9,7 @@
 - 🌱 I’m actively looking for opportunities in Java Software development.
 - 📖 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 💬 Ask me about C, C++, DSA, Advanced DSA, C#.NET, ASP.NET, JAVA, J2EE and Web development.
-- 😄 Pronouns: Happy 😄
+- 😄 Pronouns: Mr. VGR
 - 🥳 Fun fact: I love to Read a Book, I love to Listen to songs, and I love to travel on my motorcycle.
 
 #### ⚡ One line that describes me best? 
