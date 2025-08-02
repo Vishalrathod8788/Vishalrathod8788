@@ -12,7 +12,7 @@
 - 🌱 I’m **actively looking for opportunities in Full Stack Development**.
 - 📖 I’m constantly learning — from backend APIs to frontend UI/UX and advanced DSA.
 - 💬 Ask me about:
-  - 💻 Programming: `C`, `C++` `Java`, `J2EE`, `Python`
+  - 💻 Programming: `C`, `C++`, `Java`, `J2EE`, `Python`
   - 📚 DSA: Beginner to Advanced Level
   - 🌐 Web Development: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `Express`, `MongoDB`
 
