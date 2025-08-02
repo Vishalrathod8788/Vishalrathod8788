@@ -1,9 +1,10 @@
-<h1 align="center" color:white;>Hi 👋, I'm Vishal Rathod</h1>
+<h1  color:white;>Hi there 👋</h1>
 <!-- <h3 align="center">A passionate Software Developer from India</h3> -->
-<p align="center">
-  <b>A passionate Full Stack Developer from India 🇮🇳</b><br/>
-  <em>"Every day is a chance to learn, grow, and code better."</em>
+<p>
+  I am <b>Vishal Rathod.</b> a Full Stack Developer and DSA enthusiast. I love to build apps that are useful and scalable.<br/>
+  
 </p>
+
 
 
 ⚡ Little bit more about me:
@@ -11,10 +12,6 @@
 - ⚗️ Though I hold a **Bachelor's degree in Computer Application**, I’ve become a **MERN Stack Developer**.
 - 🌱 I’m **actively looking for opportunities in Full Stack Development**.
 - 📖 I’m constantly learning — from backend APIs to frontend UI/UX and advanced DSA.
-- 💬 Ask me about:
-  - 💻 Programming: `C`, `C++`, `Java`, `J2EE`, `Python`
-  - 📚 DSA: Beginner to Advanced Level
-  - 🌐 Web Development: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `Express`, `MongoDB`
 
 #### ⚡ One line that describes me best? 
 > I'm a full stack developer passionate about building responsive, scalable, and user-focused web applications.
@@ -25,23 +22,27 @@ Connect with me on [Twitter](https://twitter.com/VishalRathod_88) or [LinkedIn](
 
 ## 👨🏻‍💻 Tech Stack
 <p align="center">
-
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/J2EE-2C2255?style=for-the-badge&logo=java&logoColor=white" alt="J2EE"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
+  <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=61DAFB" alt="C"/>
-<img src="https://img.shields.io/badge/C++-593D88?style=for-the-badge&logo=C++&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-38B2AC?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/PHP-663399?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/.net-F59812?style=for-the-badge&logo=.net&logoColor=white" alt=".net"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
-<br/>
-<img src="https://img.shields.io/badge/Python-B7472A?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-<img src="https://img.shields.io/badge/ASP.net-191970?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.net"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/trello-1572B6?style=for-the-badge&logo=trello&logoColor=white" alt="trello"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 
