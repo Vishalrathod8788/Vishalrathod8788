@@ -1,19 +1,23 @@
 <h1 align="center" color:white;>Hi 👋, I'm Vishal Rathod</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<!-- <h3 align="center">A passionate Software Developer from India</h3> -->
+<p align="center">
+  <b>A passionate Full Stack Developer from India 🇮🇳</b><br/>
+  <em>"Every day is a chance to learn, grow, and code better."</em>
+</p>
 
 
 ⚡ Little bit more about me:
 
-
-- ⚗️ Though I hold a Bachelor's degree in Computer Application, I become a software developer.
-- 🌱 I’m actively looking for opportunities in Java Software development.
-- 📖 I’m currently learning many things, and I believe that every day is a learning opportunity.
-- 💬 Ask me about C, C++, DSA, Advanced DSA, C#.NET, ASP.NET, JAVA, J2EE and Web development.
-- 😄 Pronouns: Mr. VGR
-- 🥳 Fun fact: I love to Read a Book, I love to Listen to songs, and I love to travel on my motorcycle.
+- ⚗️ Though I hold a **Bachelor's degree in Computer Application**, I’ve become a **MERN Stack Developer**.
+- 🌱 I’m **actively looking for opportunities in Full Stack Development**.
+- 📖 I’m constantly learning — from backend APIs to frontend UI/UX and advanced DSA.
+- 💬 Ask me about:
+  - 💻 Programming: `C`, `Java`, `J2EE`, `Python`
+  - 📚 DSA: Beginner to Advanced Level
+  - 🌐 Web Development: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `Express`, `MongoDB`
 
 #### ⚡ One line that describes me best? 
-- 🌱 I'm a Java software developer passionate about creating efficient and scalable applications. 
+> I'm a full stack developer passionate about building responsive, scalable, and user-focused web applications.
 
 
 #### 📫 How can you reach me?
